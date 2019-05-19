@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.6)  19 MAY 2019 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.6)  19 MAY 2019 12:00
 entering extended mode
 **./main.tex
 (main.tex
@@ -1327,8 +1327,19 @@ LaTeX Info: Redefining \nameref on input line 106.
 
 \openout2 = `titlePage/LADEQ.aux'.
 
+ (titlePage/LADEQ.tex
+<figuras/capa/index.png, id=95, 225.84375pt x 224.84pt>
+File: figuras/capa/index.png Graphic file (type png)
+<use figuras/capa/index.png>
+Package pdftex.def Info: figuras/capa/index.png  used on input line 3.
+(pdftex.def)             Requested size: 136.50238pt x 67.11089pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
+ [1
 
-No file titlePage/LADEQ.tex.
+
+{C:/Users/OdnSpceMaker/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fi
+guras/capa/index.png>])
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1363,7 +1374,7 @@ No file titlePage/LADEQ.tex.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 133.
-(main.toc
+ (main.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 4.
@@ -1416,9 +1427,7 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1
 
 
-
-
-{C:/Users/OdnSpceMaker/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1430,29 +1439,35 @@ Cap\'{\i }tulo 1.
 Cap\'{\i }tulo 2.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 13.
-<figuras/ladeq/sedi/proveta.jpg, id=133, 289.83281pt x 94.85437pt>
+<figuras/ladeq/sedi/proveta.jpg, id=139, 289.83281pt x 94.85437pt>
 File: figuras/ladeq/sedi/proveta.jpg Graphic file (type jpg)
 <use figuras/ladeq/sedi/proveta.jpg>
 Package pdftex.def Info: figuras/ladeq/sedi/proveta.jpg  used on input line 20.
 
 (pdftex.def)             Requested size: 231.86655pt x 75.88358pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.33 \item B
+             - Região de Concentração constante ou concentração inicial...
 [1
 
  <./figuras/ladeq/sedi/proveta.jpg>]
-<figuras/ladeq/sedi/graphProv.jpg, id=145, 350.81062pt x 137.7647pt>
+<figuras/ladeq/sedi/graphProv.jpg, id=150, 350.81062pt x 137.7647pt>
 File: figuras/ladeq/sedi/graphProv.jpg Graphic file (type jpg)
 <use figuras/ladeq/sedi/graphProv.jpg>
 Package pdftex.def Info: figuras/ladeq/sedi/graphProv.jpg  used on input line 4
 6.
 (pdftex.def)             Requested size: 280.64886pt x 110.21188pt.
-<figuras/ladeq/sedi/graphProv2.jpg, id=147, 262.73157pt x 253.69781pt>
+<figuras/ladeq/sedi/graphProv2.jpg, id=152, 262.73157pt x 253.69781pt>
 File: figuras/ladeq/sedi/graphProv2.jpg Graphic file (type jpg)
 <use figuras/ladeq/sedi/graphProv2.jpg>
 Package pdftex.def Info: figuras/ladeq/sedi/graphProv2.jpg  used on input line 
 58.
 (pdftex.def)             Requested size: 131.36545pt x 126.84859pt.
  [2 <./figuras/ladeq/sedi/graphProv.jpg>]
-<figuras/ladeq/sedi/aparato.jpg, id=156, 186.6975pt x 213.79875pt>
+<figuras/ladeq/sedi/aparato.jpg, id=161, 186.6975pt x 213.79875pt>
 File: figuras/ladeq/sedi/aparato.jpg Graphic file (type jpg)
 <use figuras/ladeq/sedi/aparato.jpg>
 Package pdftex.def Info: figuras/ladeq/sedi/aparato.jpg  used on input line 71.
@@ -1460,14 +1475,14 @@ Package pdftex.def Info: figuras/ladeq/sedi/aparato.jpg  used on input line 71.
 (pdftex.def)             Requested size: 93.34851pt x 106.89911pt.
 [3 <./figuras/ladeq/sedi/graphProv2.jpg> <./figuras/ladeq/sedi/aparato.jpg>]
 [4] [5]
-<figuras/ladeq/sedi/graphKynch.jpg, id=191, 310.15875pt x 191.9672pt>
+<figuras/ladeq/sedi/graphKynch.jpg, id=196, 310.15875pt x 191.9672pt>
 File: figuras/ladeq/sedi/graphKynch.jpg Graphic file (type jpg)
 <use figuras/ladeq/sedi/graphKynch.jpg>
 Package pdftex.def Info: figuras/ladeq/sedi/graphKynch.jpg  used on input line 
 192.
 (pdftex.def)             Requested size: 155.079pt x 95.98335pt.
  [6 <./figuras/ladeq/sedi/graphKynch.jpg>] [7]
-<figuras/ladeq/sedi/graphBiscaia.jpg, id=208, 261.97874pt x 254.45062pt>
+<figuras/ladeq/sedi/graphBiscaia.jpg, id=213, 261.97874pt x 254.45062pt>
 File: figuras/ladeq/sedi/graphBiscaia.jpg Graphic file (type jpg)
 <use figuras/ladeq/sedi/graphBiscaia.jpg>
 Package pdftex.def Info: figuras/ladeq/sedi/graphBiscaia.jpg  used on input lin
@@ -1547,11 +1562,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 23989 strings out of 492946
- 409428 string characters out of 3123159
+ 24002 strings out of 492946
+ 409702 string characters out of 3123159
  585041 words of memory out of 3000000
- 27421 multiletter control sequences out of 15000+200000
- 605495 words of font info for 99 fonts, out of 3000000 for 9000
+ 27428 multiletter control sequences out of 15000+200000
+ 612098 words of font info for 104 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,16n,79p,788b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/l
@@ -1576,9 +1591,9 @@ b><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/time
 s/utmb8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmr8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 311752 bytes).
+Output written on main.pdf (19 pages, 324822 bytes).
 PDF statistics:
- 354 PDF objects out of 1000 (max. 8388607)
+ 360 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 500000)
- 215 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 220 words of extra memory for PDF output out of 10000 (max. 10000000)
 
