@@ -3,4 +3,7 @@ A level-1 auxiliary file: titlePage/LADEQ.aux
 A level-1 auxiliary file: chapters/ladeq/SEDIMENTACAO.aux
 The style file: achemso.bst
 Database file #1: bib/SEDIMENTA.bib
+Warning--entry type for "unicamp" isn't style-file defined
+--line 24 of file bib/SEDIMENTA.bib
 achemso 2018/09/15 v3.12
+(There was 1 warning)

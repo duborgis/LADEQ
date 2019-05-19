@@ -21,4 +21,15 @@
   year    = {2004},
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
+@Online{unicamp,
+  author    = {Unicamp},
+  editor    = {Unicamp},
+  title     = {Operações Unitárias I},
+  year      = {2019},
+  date      = {2019-05-14},
+  url       = {https://www.ggte.unicamp.br/ocw/sites/ocw/files/cursos/CienciasExatas/EQ651/apostilas/Capitulo_V.pdf.},
+  note      = {A: 2010-09-30},
+  timestamp = {2019-05-14},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

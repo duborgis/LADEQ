@@ -1,0 +1,32 @@
+\babel@toc {portuguese}{}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Descri\IeC {\c c}\IeC {\~a}o Te\IeC {\'o}rica do Sistema}{1}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Etapas de Sedimenta\IeC {\c c}\IeC {\~a}o e o teste da proveta}{2}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Balan\IeC {\c c}o de Massa}{3}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}M\IeC {\'e}todo de Kynch}{6}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}M\IeC {\'e}todo de Biscaia Jr.}{8}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Fatores de Corre\IeC {\c c}\IeC {\~a}o}{9}{section.2.5}% 
+\contentsline {chapter}{\numberline {3}Objetivo}{10}{chapter.3}% 
+\contentsline {chapter}{\numberline {4}Materiais e M\IeC {\'e}todos}{10}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Materiais}{10}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}M\IeC {\'e}todos}{11}{section.4.2}% 
+\contentsline {chapter}{\numberline {5}Resultados e Discuss\IeC {\~a}o}{11}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Propriedades f\IeC {\'\i }sico-qu\IeC {\'\i }micas}{11}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Determina\IeC {\c c}\IeC {\~a}o da concentra\IeC {\c c}\IeC {\~a}o e densidade de $ \mathbf {CaCO_{3}} $ na suspens\IeC {\~a}o}{12}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}C\IeC {\'a}lculos}{12}{subsection.5.2.1}% 
+\contentsline {section}{\numberline {5.3}Teste de Proveta}{14}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}Altura inicial da proveta}{14}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {5.3.2}Curva de sedimenta\IeC {\c c}\IeC {\~a}o (altura da proveta x tempo)}{14}{subsection.5.3.2}% 
+\contentsline {subsection}{\numberline {5.3.3}Calculo das vaz\IeC {\~o}es para dimensionamento do sedimentador}{15}{subsection.5.3.3}% 
+\contentsline {subsection}{\numberline {5.3.4}M\IeC {\'e}todo de Kynch}{16}{subsection.5.3.4}% 
+\contentsline {subsubsection}{Tabela com os valores calculados para \IeC {\'a}rea}{17}{subsubsection*.17}% 
+\contentsline {subsubsection}{Fatores de corre\IeC {\c c}\IeC {\~a}o}{20}{subsubsection*.21}% 
+\contentsline {subsubsection}{Projeto de sedimentador}{20}{subsubsection*.23}% 
+\contentsline {subsection}{\numberline {5.3.5}M\IeC {\'e}todo de Biscaia Jr.}{20}{subsection.5.3.5}% 
+\contentsline {subsubsection}{Determina\IeC {\c c}\IeC {\~a}o de $ \mathbf {Z_{\text {m\IeC {\'\i }n}}} $ e $ \mathbf {t_{\text {m\IeC {\'\i }n}}} $}{20}{subsubsection*.24}% 
+\contentsline {subsubsection}{Determina\IeC {\c c}\IeC {\~a}o de $ A_{\text {m\IeC {\'\i }n}} $}{20}{subsubsection*.27}% 
+\contentsline {subsubsection}{Fatores de corre\IeC {\c c}\IeC {\~a}o}{21}{subsubsection*.29}% 
+\contentsline {subsubsection}{Projeto do sedimentador}{21}{subsubsection*.31}% 
+\contentsline {subsection}{\numberline {5.3.6}Compara\IeC {\c c}\IeC {\~a}o entre os m\IeC {\'e}todos}{21}{subsection.5.3.6}% 
+\contentsline {chapter}{\numberline {6}Conclus\IeC {\~o}es}{21}{chapter.6}% 
+\contentsline {chapter}{Bibliografia}{22}{chapter*.32}% 

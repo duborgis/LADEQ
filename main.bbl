@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{3}
+\begin{mcitethebibliography}{4}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -46,5 +46,13 @@ McCabe,~W.; Smith,~J.; Harriott,~P. Unit Operations of Chemical Engineering.
 \mciteBstWouldAddEndPunctfalse
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Unicamp(2019)]{unicamp}
+Unicamp, Operações Unitárias I. 2019;
+  \url{https://www.ggte.unicamp.br/ocw/sites/ocw/files/cursos/CienciasExatas/EQ651/apostilas/Capitulo_V.pdf.},
+  Acessado: 2019-05-14\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
 \end{mcitethebibliography}
