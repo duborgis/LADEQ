@@ -1,0 +1,178 @@
+\documentclass[12pt,a4paper,onecolumn]{report}
+%\documentclass[preview]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{amsmath,amssymb,amsthm,amsfonts}
+\usepackage{setspace}
+\usepackage{listings}
+\usepackage{textcomp}
+\usepackage{gensymb}
+\usepackage{float}
+\usepackage{mathtools}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{caption}
+\usepackage{pdfpages}
+\usepackage[pass]{geometry}
+\usepackage{titlesec, blindtext, color}
+\usepackage{lipsum}
+\usepackage{bm}
+\usepackage{placeins}
+\usepackage{lmodern}
+\usepackage{times}
+%\usepackage[active,tightpage]{preview}
+%
+%\PreviewEnvironment{equation}
+
+%\usepackage{amssymb}
+%\usepackage{tikz}
+
+%\usepackage{fontspec}
+%
+%\setmainfont{CMU Sans Serif}
+
+
+%\usepackage{helvet}
+%\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage[intoc,portuguese]{nomencl}
+    \makenomenclature
+    \RequirePackage{ifthen}
+    \renewcommand{\nomgroup}[1]{%
+    \ifthenelse{\equal{#1}{S}}{\item[\textbf{S�mbolos}]}{%
+    \ifthenelse{\equal{#1}{A}}{\item[\textbf{Abreviaturas}]}{}}}
+%\usepackage{indentfirst}
+\usepackage[nottoc]{tocbibind}
+\usepackage{listings}
+    \usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
+    \definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
+    \definecolor{mylilas}{RGB}{170,55,241}
+\usepackage[sort,round,comma,authoryear]{natbib}
+\usepackage{appendix}
+
+\titlespacing*{\chapter}{0pt}{0.1in}{0.1in}
+
+    \usepackage{epigraph}
+    \renewcommand\textflush{flushright}
+
+    \usepackage{etoolbox}
+    \makeatletter
+    \newlength\epitextskip
+    \pretocmd{\@epitext}{\em}{}{}
+    \apptocmd{\@epitext}{\em}{}{}
+%    \patchcmd{\epigraph}{\@epitext{#1}\\}{\@epitext{#1}\\[\epitextskip]}{}{}
+    \patchcmd{\epigraph}{\@epitext{#1}}{\@epitext{#1}[\epitextskip]}{}{}
+    \patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+    \makeatother
+
+    \setlength\epigraphrule{0pt}
+    \setlength\epitextskip{0ex}
+    \setlength\epigraphwidth{.3\textwidth}
+    
+\usepackage{hyperref}
+\hypersetup{linktocpage}
+\usepackage{colortbl}
+
+\definecolor{gray75}{gray}{0.75}
+
+
+\input{tensorNotation}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Defini��o}[section]
+\newtheorem*{definition*}{Defini��o}
+
+\newtheorem*{theorem*}{Teorema}
+
+
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem{lemma}[theorem]{Lemma}
+
+%%%%%%% ESPA�AMENTOS%%%%%%
+\setlength{\parskip}{0.75em}
+\renewcommand{\baselinestretch}{1.5}
+%\makenomenclature
+%\renewcommand{\nomname}{Lista de S�mbolos}
+
+\title{Acompanhamento de Per�odo}
+\date{}
+\author{Eduardo Borges de Lima}
+
+\begin{document}
+\setcounter{chapter}{0}
+\setcounter{section}{1}
+
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+\nocite{*}
+
+%% Subi a figura da eq corando a imagem
+
+% ///////////////////////////////////////////////////////////////////////////////// %
+
+%\include{titlePage/tecorgexp}
+%\include{titlePage/piexp}
+\include{titlePage/LADEQ}
+%\include{titlePage/LADEQ}
+
+
+
+
+\pagenumbering{roman}
+
+
+
+\newgeometry{top=30mm, bottom=20mm, right=20mm, left=30mm}
+
+\tableofcontents
+%\appendixtocname
+
+
+
+
+\newpage
+\pagenumbering{arabic}
+
+
+%___________LADEQ E SEUS RELAT�RIOS
+%\include{chapters/ladeq/LADEQ}
+%\include{chapters/ladeq/DIFUSAO}
+%\include{chapters/ladeq/DINAMICA}
+%\include{chapters/ladeq/DESTILA}
+%\include{chapters/ladeq/FILTRA}
+%\include{chapters/ladeq/FILTRA2}
+\include{chapters/ladeq/SEDIMENTACAO}
+%\include{chapters/ladeq/CINETICA}
+
+
+
+
+
+
+
+\newpage 
+%style{custom}
+%\bibliographystyle{plainnat}
+\bibliographystyle{achemso}
+%\bibliographystyle{rsc}
+
+
+
+
+%________________BIBLIOGRAFIAS
+
+\bibliography{bib/SEDIMENTA}
+%\bibliography{bib/DIFUSAO}
+
+
+
+
+
+
+\end{document}

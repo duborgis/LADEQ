@@ -1,0 +1,44 @@
+% Encoding: UTF-8
+
+@Article{2,
+  author  = {Welty, J. R. and Wicks, C. E. and Wilson, R. E. and Rorrer, G. L.},
+  title   = {Fundamentals of Momentum, Heat, and Mass Transfer},
+  journal = {John Wiley \& Sons},
+  year    = {2007},
+}
+
+@Electronic{1,
+  author      = {Encyclopaedia Britannica},
+  year        = {Acesso em 30 de abril de 2019 às 20h;},
+  title       = {Transport Phenomenon.},
+  institution = {Encyclopaedia Britannica.},
+}
+
+@Article{3,
+  author  = {Bergman, T. L. and Lavine, A. S. and Incropera, F. P. and Dewitt, D. P.},
+  title   = {Fundamentos de Transferência de Calor e de Massa.},
+  journal = {LTC},
+  year    = {2015},
+}
+
+@Article{4,
+  author  = {Hines, Anthony L. and Maddox, Robert N.},
+  title   = {Mass transfer: fundamentals and applications.},
+  journal = {Prentice-Hall},
+  year    = {1985.},
+}
+
+@Article{5,
+  author = {GREEN, Don W. and PERRY, Robert H.},
+  title  = {Perry's Chemical Engineers' Handbook.},
+  year   = {1997},
+}
+
+@Article{Fuller,
+  author  = {Fuller, E. N. and Schetler, P. D. and Giddings J. C., A.},
+  title   = {A new method for prediction of binary gas-phase diffusion coefficients.},
+  journal = {Ind. Eng. Chem.},
+  year    = {1966},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

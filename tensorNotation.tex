@@ -1,0 +1,38 @@
+% Operações Matemáticas
+% vector operations format
+\newcommand{\gvec}[1] {\ensuremath{\mbox{\boldmath$\bf#1$}}}
+\newcommand{\idot}[2] {#1 \cdot #2}
+\newcommand{\rot}[2] {#1 \times #2}
+\newcommand{\uv}[1]{\ensuremath{\mathbf{\hat{#1}}}} % for unit vector
+
+% derivatives format
+\let\underdot=\d % rename builtin command \d{} to \underdot{}
+\renewcommand{\d}[2]{\frac{d #1}{d #2}} % for derivatives
+\newcommand{\pd}[2]{\frac{\partial #1}{\partial #2}} 
+\newcommand{\ppd}[2]{\frac{\partial^{2} #1}{\partial #2^{2}}} 
+
+% integral format
+\newcommand{\intc}[2]{\int_{#1_{c}} #2 \,\mathrm{d}#1} 
+\newcommand{\intd}[2]{\int_{#1} #2 \,\mathrm{d}#1} 
+\newcommand{\intg}[3]{\int_{#1_{#2}} #3 \,\mathrm{d}#1}
+
+\newcommand{\ointc}[2]{\oint_{#1_{c}} #2 \,\mathrm{d}#1} 
+\newcommand{\ointd}[2]{\oint_{#1} #2 \,\mathrm{d}#1} 
+
+\newcommand{\abs}[1]{\left| #1 \right|} % for absolute value
+\newcommand{\avg}[1]{\left< #1 \right>} % for average
+
+% tensor operations format
+\newcommand{\grad}[1]{\gvec{\nabla} #1} % for gradient
+\let\divsymb=\div % rename builtin command \div to \divsymb
+\renewcommand{\div}[1]{\gvec{\nabla} \cdot #1} % for divergence
+\newcommand{\curl}[1]{\gvec{\nabla} \times #1} % for curl
+\newcommand{\laplacian}[1]{\gvec{\nabla}^{2} #1} % for curl
+
+\newcommand{\U} {\mathbf{u}}
+\newcommand{\g} {\mathbf{g}}
+\newcommand{\n} {\uv{n}}
+\newcommand{\e}[1] {\gvec{e}_{ #1 }}
+\newcommand{\stress} {\gvec{\tau}}
+\newcommand{\viscous} {\stress^{\prime}}
+\newcommand{\rhs}{\texttt{r.h.s.}}

@@ -1,0 +1,24 @@
+% Encoding: UTF-8
+
+@Article{foust,
+  author  = {Alan S. Foust},
+  title   = {Princípios Das Operações Unitárias},
+  journal = {LTC},
+  year    = {1982},
+}
+
+@Article{pecanha,
+  author  = {Ricardo Peçanha},
+  title   = {Sistemas Particulados: Operações unitárias envolvendo partículas e fluídos},
+  journal = {Elsevier},
+  year    = {2014},
+}
+
+@Article{macabe,
+  author  = {McCabe, W. and Smith, J. and Harriott, P.},
+  title   = {Unit Operations of Chemical Engineering},
+  journal = {McGraw Hill - CHEMICAL ENGINEERING SERIES},
+  year    = {2004},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
