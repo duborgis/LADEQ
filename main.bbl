@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{4}
+\begin{mcitethebibliography}{0}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -26,33 +26,4 @@
   {\relax}
   {\relax}
 
-\bibitem[Foust(1982)]{foust}
-Foust,~A.~S. Princípios Das Operações Unitárias. \emph{LTC} \textbf{1982},
-  \relax
-\mciteBstWouldAddEndPunctfalse
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Peçanha(2014)]{pecanha}
-Peçanha,~R. Sistemas Particulados: Operações unitárias envolvendo
-  partículas e fluídos. \emph{Elsevier} \textbf{2014}, \relax
-\mciteBstWouldAddEndPunctfalse
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[McCabe \latin{et~al.}(2004)McCabe, Smith, and Harriott]{macabe}
-McCabe,~W.; Smith,~J.; Harriott,~P. Unit Operations of Chemical Engineering.
-  \emph{McGraw Hill - CHEMICAL ENGINEERING SERIES} \textbf{2004}, \relax
-\mciteBstWouldAddEndPunctfalse
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Unicamp(2019)]{unicamp}
-Unicamp, Operações Unitárias I. 2019;
-  \url{https://www.ggte.unicamp.br/ocw/sites/ocw/files/cursos/CienciasExatas/EQ651/apostilas/Capitulo_V.pdf.},
-  Acessado: 2019-05-14\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
 \end{mcitethebibliography}
