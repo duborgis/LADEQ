@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{0}
+\begin{mcitethebibliography}{5}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -26,4 +26,41 @@
   {\relax}
   {\relax}
 
+\bibitem[do~Nascimento(2019)]{isabellaa}
+do~Nascimento,~I. C.~S. Notas de Aula referentes à disciplina Laboratório de
+  Engenharia Química: Fluidização. \emph{EQ/UFRJ} \textbf{2019}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Peçanha(2014)]{pecanha}
+Peçanha,~R.~P. Sistemas Particulados: Operações Unitárias Envolvendo
+  Partículas e Fluidos. \emph{Elsevier} \textbf{2014}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Dean(1999)]{lange}
+Dean,~J.~A. In \emph{Lange's Handbook Of Chemistry}, 15th ed.; McGRAW-HILL,~I.,
+  Ed.; 1999\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tannous(2018)]{}
+Tannous,~K. Descrição de Leito Fluidizado. 2018;
+  \url{https://fluidizacao.com.br/descricao-de-leito-fluidizado-parte-3/},
+  Acessado em 30 mai. 2019.\relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Teixeira(2015)]{beta}
+Teixeira,~K.~S. Leito Fluidizado e suas Aplicações. 2015;
+  \url{https://betaeq.com.br/index.php/2015/10/26/leitos-fluidizados-e-suas-aplicacoes},
+  Acessado em 30 mai. 2019.\relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \end{mcitethebibliography}

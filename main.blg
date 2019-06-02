@@ -1,17 +1,11 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 A level-1 auxiliary file: titlePage/LADEQ.aux
-A level-1 auxiliary file: chapters/ladeq/DINAMICA.aux
-A level-1 auxiliary file: chapters/ladeq/SEDIMENTACAO.aux
+A level-1 auxiliary file: chapters/ladeq/FLUID.aux
 The style file: achemso.bst
-I couldn't open database file bib/DINAMICA.bib
----line 26 of file main.aux
- : \bibdata{bib/DINAMICA
- :                      }
-I'm skipping whatever remains of this command
-I found no database files---while reading file main.aux
-Warning--I didn't find a database entry for "pecanha"
-Warning--I didn't find a database entry for "unicamp"
-Warning--I didn't find a database entry for "macabe"
-Warning--I didn't find a database entry for "foust"
+Database file #1: bib/FLUID.bib
+Warning--entry type for "" isn't style-file defined
+--line 25 of file bib/FLUID.bib
+Warning--entry type for "beta" isn't style-file defined
+--line 34 of file bib/FLUID.bib
 achemso 2019-02-14 v3.12a
-(There were 2 error messages)
+(There were 2 warnings)

@@ -1,0 +1,43 @@
+% Encoding: UTF-8
+
+@Article{isabellaa,
+  author  = {Isabella Cristina Silva do Nascimento},
+  title   = {Notas de Aula referentes à disciplina Laboratório de Engenharia Química: Fluidização},
+  journal = {EQ/UFRJ},
+  year    = {2019},
+}
+
+@Article{pecanha,
+  author  = {Ricardo Pires Peçanha},
+  title   = {Sistemas Particulados: Operações Unitárias Envolvendo Partículas e Fluidos.},
+  journal = {Elsevier},
+  year    = {2014},
+}
+
+@Book{lange,
+  author  = {John A. Dean},
+  title   = {Lange's Handbook Of Chemistry},
+  year    = {1999},
+  editor  = {McGRAW-HILL, INC.},
+  edition = {15th},
+}
+
+@Online{,
+  author = {Katia Tannous},
+  editor = {Tecnologia da Fluidização},
+  title  = {Descrição de Leito Fluidizado},
+  year   = {2018},
+  url    = {https://fluidizacao.com.br/descricao-de-leito-fluidizado-parte-3/},
+  note   = {Acessado em 30 mai. 2019.},
+}
+
+@Online{beta,
+  author = {Kaique Santos Teixeira},
+  editor = {BETA EQ},
+  title  = {Leito Fluidizado e suas Aplicações},
+  year   = {2015},
+  url    = {https://betaeq.com.br/index.php/2015/10/26/leitos-fluidizados-e-suas-aplicacoes},
+  note   = {Acessado em 30 mai. 2019.},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
